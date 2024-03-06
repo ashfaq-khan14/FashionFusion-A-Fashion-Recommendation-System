@@ -65,7 +65,6 @@
 #
 
 # fashion-recommender-system
-# Fashion Recommendation
 
 In this project, I created an end-to-end solution for large-scale image classification and visual recommendation on fashion images. More specifically, my model can learn the important regions in an image and generate diverse recommendations based on such semantic similarity.  
 
@@ -78,7 +77,7 @@ An accompanied blog post via FloydHub can be found at this link: [Recommending S
 
 More specifically, I used the images in the [DeepFashion Attribute Prediction](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html) subset. It contains 289,222 number of clothes images, 50 number of clothing categories, and 1,000 number of clothing attributes. Each image is annotated by bounding box and clothing type.
 
-![AttributePrediction](![image](https://github.com/ashfaq-khan14/fashion-recommedation-system/assets/120010803/aa309541-99f0-4dd2-b72d-8888766115ac)
+(![image](https://github.com/ashfaq-khan14/fashion-recommedation-system/assets/120010803/aa309541-99f0-4dd2-b72d-8888766115ac)
 
 
 
